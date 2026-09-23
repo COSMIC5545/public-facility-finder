@@ -1,0 +1,14 @@
+{
+  "reports": [
+    {
+      "ticket_id": "TKT-16D0CA16",
+      "facility_id": "toilet-node-7373049960",
+      "issue_type": "Broken",
+      "description": "Testing report persistence during hackathon development.",
+      "photo_url": null,
+      "status": "Submitted",
+      "assigned_authority": "Kochi Local Body",
+      "created_at": "2026-09-23T16:52:28.043632"
+    }
+  ]
+}
